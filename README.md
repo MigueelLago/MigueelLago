@@ -48,5 +48,5 @@ Acredito que bons profissionais não param no tempo. Estou sempre buscando:
 
 Se quiser trocar ideias, discutir projetos ou colaborar em algo, **fique à vontade para me chamar!** 😄
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/seu-usuario-linkedin](https://www.linkedin.com/in/miguel-lago-361793b9/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miguel-lago-361793b9/)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:mhlago.ps@icloud.com)
